@@ -18,18 +18,16 @@ Analytics projects focused on user behavior, retention & performance<br><br>
 
 🧑‍💻 I’m currently learning:<br>
 Product management & product analytics<br>
-Agile/Scrum & product development workflows<br>
-Generative AI & AI-powered products<br>
-Market and competitive analysis<br>
-Product experimentation and growth strategies<br><br>
+Market competitive analysis<br>
+Product experimentation & growth strategies<br><br>
 
 🔹 Ask me about:<br>
 User research & problem discovery<br>
+Product strategy, prioritization & growth ideas<br>
+Building and launching digital products<br>
 Product analytics and dashboards<br>
 Market & competitor research<br>
-Turning customer feedback and data into product decisions<br>
-Product strategy, prioritization & growth ideas<br>
-Building and launching digital products<br><br>
+Turning customer feedback and data into product decisions<br><br>
 
 👌 Fun fact:<br>
 I enjoy turning customer insights into product decisions—I believe the best products are built by balancing user needs, business goals, technology, and data.
